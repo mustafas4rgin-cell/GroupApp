@@ -1,0 +1,5 @@
+C:\Users\MCANS\Desktop\GroupApp\GroupApp.Core\obj\Debug\net9.0\GroupApp.Core.csproj.AssemblyReference.cache
+C:\Users\MCANS\Desktop\GroupApp\GroupApp.Core\obj\Debug\net9.0\GroupApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCANS\Desktop\GroupApp\GroupApp.Core\obj\Debug\net9.0\GroupApp.Core.AssemblyInfoInputs.cache
+C:\Users\MCANS\Desktop\GroupApp\GroupApp.Core\obj\Debug\net9.0\GroupApp.Core.AssemblyInfo.cs
+C:\Users\MCANS\Desktop\GroupApp\GroupApp.Core\obj\Debug\net9.0\GroupApp.Core.csproj.CoreCompileInputs.cache
