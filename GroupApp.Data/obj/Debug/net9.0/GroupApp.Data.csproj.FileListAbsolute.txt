@@ -7,6 +7,7 @@ C:\Users\MCANS\Desktop\GroupApp\GroupApp.Data\obj\Debug\net9.0\GroupApp.Data.Gen
 C:\Users\MCANS\Desktop\GroupApp\GroupApp.Data\obj\Debug\net9.0\GroupApp.Data.AssemblyInfoInputs.cache
 C:\Users\MCANS\Desktop\GroupApp\GroupApp.Data\obj\Debug\net9.0\GroupApp.Data.AssemblyInfo.cs
 C:\Users\MCANS\Desktop\GroupApp\GroupApp.Data\obj\Debug\net9.0\GroupApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\MCANS\Desktop\GroupApp\GroupApp.Data\obj\Debug\net9.0\GroupApp.Data.sourcelink.json
 C:\Users\MCANS\Desktop\GroupApp\GroupApp.Data\obj\Debug\net9.0\GroupApp.Data.dll
 C:\Users\MCANS\Desktop\GroupApp\GroupApp.Data\obj\Debug\net9.0\refint\GroupApp.Data.dll
 C:\Users\MCANS\Desktop\GroupApp\GroupApp.Data\obj\Debug\net9.0\GroupApp.Data.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\GroupApp.Data.csproj": {}
+    "c:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\GroupApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\GroupApp.Data.csproj": {
+    "c:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\GroupApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\GroupApp.Data.csproj",
+        "projectUniqueName": "c:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\GroupApp.Data.csproj",
         "projectName": "GroupApp.Data",
-        "projectPath": "C:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\GroupApp.Data.csproj",
+        "projectPath": "c:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\GroupApp.Data.csproj",
         "packagesPath": "C:\\Users\\MCANS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\obj\\",
+        "outputPath": "c:\\Users\\MCANS\\Desktop\\GroupApp\\GroupApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MCANS\\AppData\\Roaming\\NuGet\\NuGet.Config"
